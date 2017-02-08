@@ -30,5 +30,4 @@ class School
   end
 
 
-
 end
